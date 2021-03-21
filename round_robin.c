@@ -1,6 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
-#define size 20
+
 /*
 variable naming
 no_process = total number of processes
